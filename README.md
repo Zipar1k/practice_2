@@ -3,6 +3,10 @@
 
 ## команды для запуска и компиляции
 
-gcc server.c -o server && ./server
+#### первый терминал
+
+gcc server.c -o server && ./server 
+
+#### второй терминал
 
 gcc client.c -o client && ./client
